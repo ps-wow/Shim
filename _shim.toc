@@ -1,0 +1,7 @@
+## Interface: 11300
+## Title: Shim
+## Notes: An addon to help bridge gap between retail and classic
+## Author: PrivateSniper
+## Version: 1.0.0
+
+main.lua
